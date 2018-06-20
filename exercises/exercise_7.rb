@@ -9,4 +9,9 @@ require_relative './exercise_6'
 puts "Exercise 7"
 puts "----------"
 
+# pp @storeAll
+# pp @storeAll.employees
 # Your code goes here ...
+# @storeAll.each do |item|
+#  pp item.first_name
+# end
